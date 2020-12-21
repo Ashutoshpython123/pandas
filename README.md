@@ -1,1 +1,1 @@
-# pandas
+# pandas complete understanding for beginner
